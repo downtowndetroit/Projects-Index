@@ -29,7 +29,7 @@ Project 1,4 and 5 are writen with Python3. So the most important prerequesit is 
 
 In Windows, from the Start menu, search for and open “Anaconda Prompt”.
 
-(Create a new environment named `ddp` and type the following:)
+(If you already have anaconda installed and want to use a seperate environment to run these scripts, Create a new environment named `ddp` and type the following:)
 
 ```
 conda create --name ddp
