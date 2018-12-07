@@ -14,6 +14,9 @@ This is a all-in-one Tian's DDP Projects Documentation pages. The purpose of thi
 5. [Detroit Building Permit Automation Tools(tools)](https://github.com/tianxie1995/ddp-building-permit)
 
 ## Environment Setting
+### Install Git in computer
+
+To clone the repository from Github, you need Git downloaded from [git](https://git-scm.com/downloads).
 
 ### Set up Python
 
@@ -23,27 +26,19 @@ Project 1,4 and 5 are writen with Python3. So the most important prerequesit is 
 
 **Windows:**
 
-### Install Git in computer
-
-To clone the repository from Github, you need Git downloaded from https://git-scm.com/downloads . After install Git, restart Anaconda Prompt.
 
 In Windows, from the Start menu, search for and open “Anaconda Prompt”.
 
-a. Create a new environment named `ddp`
+(Create a new environment named `ddp` and type the following:)
 
 ```
 conda create --name ddp
-```
-
-b. To use, or “activate” the new environment, type the following:
-
-```
 activate ddp
 ```
 
-c. Install Packages required by specific srcipt, please refer to specific project pages
+a. Install Packages required by specific srcipt, please refer to specific project pages
 
-d. Run Scirpt
+b. Run Scirpt
 
 Within Anaconda Prompt, run
 
