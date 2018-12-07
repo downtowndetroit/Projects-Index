@@ -7,11 +7,11 @@ This is a all-in-one Tian's DDP Projects Documentation pages. The purpose of thi
 
 ## Projects Pages(By Time Series)
 
-1. [Downtown Geocoder(tools)](https://github.com/tianxie1995/Downtown-Detroit-Geocoder)
-2. [Downtown Business Inventory(Web Application)](https://tianxie1995.github.io/ddp-business-inventory-arcgis/)
-3. [Development Viewer(Web Application)](https://tianxie1995.github.io/ddp-business-inventory-arcgis/development)
-4. [Places API Scraper(tools)](https://github.com/tianxie1995/google-places-scrapy)
-5. [Detroit Building Permit Automation Tools(tools)](https://github.com/tianxie1995/ddp-building-permit)
+1. [Downtown Geocoder(tools)](https://github.com/downtowndetroit/ddp-geocoder)
+2. [Downtown Business Inventory(Web Application)](https://downtowndetroit.github.io/business-inventory-app/)
+3. [Development Viewer(Web Application)](https://downtowndetroit.github.io/business-inventory-app/development)
+4. [Places API Scraper(tools)](https://github.com/downtowndetroit/google-places)
+5. [Detroit Building Permit Automation Tools(tools)](https://github.com/downtowndetroit/building-permit)
 
 ## Environment Setting
 ### Install Git in computer
