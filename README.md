@@ -105,4 +105,5 @@ python SCRIPT_NAME.py
 ```
 ## Reference 
 Anaconda Documentation: https://conda.io/docs/user-guide/index.html
+
 How-to-run-python-script-in-windows: https://medium.com/@tranngocminhcdn/running-python-scripts-by-using-anaconda-prompt-da2870d86fd0
