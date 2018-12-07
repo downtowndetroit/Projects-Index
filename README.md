@@ -49,21 +49,17 @@ python SCRIPTNAME.PY
 **MacOS or Linux**
 
 All commands below are typed into the Terminal window.
-a. Create a new environment named `ddp`
+
+(Create a new environment named `ddp` and activate it)
 
 ```
 conda create --name ddp
-```
-
-b. To use, or “activate” the new environment, type the following:
-
-```
 source activate ddp
 ```
 
-c. Install Packages required by specific srcipt, please refer to specific project pages
+a. Install Packages required by specific srcipt, please refer to specific project pages
 
-d. Run Scirpt
+b. Run Scirpt
 
 Within Anaconda Prompt, run
 
@@ -107,3 +103,6 @@ c. Run the script (this step depend on specific script's requirement)
 ```
 python SCRIPT_NAME.py
 ```
+## Reference 
+Anaconda Documentation: https://conda.io/docs/user-guide/index.html
+How-to-run-python-script-in-windows: https://medium.com/@tranngocminhcdn/running-python-scripts-by-using-anaconda-prompt-da2870d86fd0
